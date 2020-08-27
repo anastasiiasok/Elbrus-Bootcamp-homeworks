@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div class="form-wrap">
+        <div class="profile"><img src="https://seeklogo.com/images/R/racoon-team-esport-logo-EFA9AAC0CA-seeklogo.com.png">
+          <h1>Team Membership Registration </h1>
+          <hr>
+        </div>
+
+
+        <form method="post" action="form.php">
+          <div>
+            <label for="name">Your First Name</label>
+            <input type="text" name="name" required>
+
+            <label for="name">Your Last Name</label>
+            <input type="text" name="name" required>
+          </div>
+
+          
+
+
+          <div>
+            <label for="email">E-mail</label>
+            <input type="email" name="email" required>
+          </div>
+
+          
+
+
+          <div>
+            <label for="country">Country</label>
+            <select name="country">
+              <option>Choose country</option>
+              <option value="Russia">Russia</option> 
+              <option value="Ukraine">Ukraine</option> 
+              <option value="Belarus">Belarus</option> 
+            </select> 
+            <div class="select-arrow"></div> 
+          </div> 
+
+
+
+
+
+          <form method="post" action="form.php">
+            <div>
+             
+                  <label for="name">Gender</label>
+                <input type="radio" name="sex" value="мужской">Male
+                
+              
+              <label>
+                <input type="radio" name="sex" value="женский">Female
+                <div class="radio-control female"></div>
+              </label>
+            </div>
+            <form>
+                <input type="button" onclick="window.location.href='//127.0.0.1:5500/greetings.html';" value="Send" />
+              </form>
+         
+        </form> 
+      </div>
+
+</body>
+</html>

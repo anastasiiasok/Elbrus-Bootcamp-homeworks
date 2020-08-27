@@ -1,0 +1,57 @@
+body
+{
+ margin: 0.;
+ padding: 0;
+}
+.logo
+{
+    position: absolute;
+    top: 30%;
+    left: 30%;
+    transform: translate (-50%, -50%);
+    width: 500px;
+    height: 500px;
+    border-radius: 50%;
+    background: #ffffff; 
+    border-top: 120px solid #ff0000;
+    border-right: 120px solid #ff0000;
+    border-bottom:120px solid #ff0000;
+    border-left: 120px solid hsl(0, 100%, 50%);   
+}
+
+
+
+.rectangle 
+{
+    position: absolute;
+    top: 70%;
+    left: 30%;
+    right: 30%;
+    height: 130px;
+    width: 750px;
+    background-color: rgb(1, 15, 214);
+   
+    
+  }
+
+  .text
+  {
+    position: absolute;
+    font-size: 27px;
+    letter-spacing: 5px;
+    word-spacing: 6px;
+    font-family: -apple-system, BlinkMacSystemFont,  'Helvetica Neue', serif;
+    top: 70%;
+    left: 32%;
+    right: 32%;
+    height: 300px;
+    width: 800px;
+    text-shadow: 0 0 15px rgb(255, 2, 2), 0 0 10px rgba(255,255,255,.5);
+    
+    
+  }
+body
+
+
+
+

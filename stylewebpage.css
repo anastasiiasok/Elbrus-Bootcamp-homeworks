@@ -1,0 +1,104 @@
+body
+{
+ margin: 0.;
+ padding: 1;
+}
+.introduction {
+    border-radius: 1000px;
+    position: relative;  
+    font-style: italic;
+    text-align: center;
+    padding: 1rem 1.2rem;
+    width: 60%; 
+    margin: 1rem auto 2rem;
+    color: #000000;
+    background: #d8bcca46;  
+    font-family: "Comic Sans MS", Comic, cursive;
+}
+
+.navigationonpage{
+
+    border-radius: 1000px; 
+    position: relative;  
+    font-style: italic;
+    text-align: start;
+    background: #000000; 
+    font-family: "Comic Sans MS", Comic, cursive; 
+    font-family: "Comic Sans MS", Comic, cursive;
+
+
+
+}
+
+.AboutMe{
+
+    border-radius: 1000px;
+    position: relative;  
+    font-style: italic;
+    text-align: center;
+    padding: 1rem 1.2rem;
+    width: 60%; 
+    margin: 1rem auto 2rem;
+    color: #000000;
+    background: #ddc9d338; 
+    font-family: "Comic Sans MS", Comic, cursive;
+
+
+}
+
+
+
+.WhyIdecidedtoCode{
+
+    border-radius: 1000px;
+    position: relative;  
+    font-style: italic;
+    text-align: center;
+    padding: 1rem 1.2rem;
+    width: 60%; 
+    margin: 1rem auto 2rem;
+    color: #000000;
+    background: #ddc9d338;  
+    font-family: "Comic Sans MS", Comic, cursive;
+}
+
+.Menu{
+    border-radius: 50px;
+    position: relative;  
+    font-style: italic;
+    text-align: start;
+    padding: 1rem 1.2rem;
+    width: 40%; 
+    margin: 1rem auto 2rem;
+
+    background: #7e90c444; 
+    font-family: "Comic Sans MS", Comic, cursive;
+    
+
+
+
+
+}
+.form {
+    border-radius: 1000px;
+    position: relative;  
+    font-style: italic;
+    text-align: center;
+    padding: 1rem 1.2rem;
+    width: 60%; 
+    margin: 1rem auto 2rem;
+    color: #000000;
+    background: #b67b9fdc;  
+    font-family: "Comic Sans MS", Comic, cursive;
+
+
+
+}
+
+
+
+
+body
+
+
+
